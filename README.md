@@ -16,9 +16,9 @@
 	python --version
 	```
 - After downloading my repository and installing the Python (if not installed) navigate to the folder and open command prompt there.  To navigate to Command Prompt on the folder, just type "cmd" on the address bar
- ![[Pasted image 20250613083758.png]]
+ ![Navigate to the folder](screenshots/image_1.png)
 - Like this and hit "Enter"
-![[Pasted image 20250613083829.png]]
+![Opening Command Prompt](screenshots/image_2.png)
 - Activate the Virtual Environment by running this on the Command Prompt
 ```bash
 venv\Scripts\activate
